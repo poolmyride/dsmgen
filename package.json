@@ -1,6 +1,6 @@
 {
   "name": "dsmgen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An npm package to generate swift boilerplate code for DataStoreKit",
   "main": "./bin/index.js",
   "bin": {
