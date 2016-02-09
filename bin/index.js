@@ -1,7 +1,6 @@
 #!/usr/bin/env node
-var appArguments = {};
-var fileNames = []
-var processor = require('./fileProcessor')
+
+var processor = require('../lib/fileProcessor')
 process.argv.forEach(function (val, index, array) {
 
     if(index > 1){
