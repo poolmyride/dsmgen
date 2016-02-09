@@ -31,7 +31,7 @@ In terminal, go to the directory where your file is present
 > dsmgen User.swift
 ```
 
-## now your file contensts are -
+## now your file contents are -
 
 ```swift
 
